@@ -52,7 +52,7 @@
     "@pixi/filter-noise": "6.3.0",
     "@pixi/graphics": "6.3.0",
     "@pixi/interaction": "6.3.0",
-    "@pixi/loaders": "6.3.0",
+    "@pixi/loaders": "git+https://github.com/mauroencinas/pixijscustom-loader.git#dev",
     "@pixi/math": "6.3.0",
     "@pixi/mesh": "6.3.0",
     "@pixi/mesh-extras": "6.3.0",
